@@ -1,0 +1,10 @@
+{
+  "simulation": "com.gatling.tests.ComputerDataBaseFeeder",
+  "simulationId": "computerdatabasefeeder",
+  "start": 1707755365507,
+  "description": "",
+  "scenarios": ["Feeder Demo"],
+  "assertions": [
+
+  ]
+}
